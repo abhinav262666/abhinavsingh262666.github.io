@@ -1,0 +1,19 @@
+body{
+    font-family: fantasy;
+    background-color: #6C256F;
+}
+.box{
+    margin:auto;
+    margin-top: 5cm;
+     background-color: #88458A;
+     border: #88458A;
+     border-radius: 25px;
+     width: 400px;
+     height: 150px;
+    /* margin: 200px 200px; */
+    /* margin-top: 5cm;
+    margin-left: 13cm; */
+   /* padding: 1cm; */
+     text-align: center;
+     font-size: 100px;
+}
